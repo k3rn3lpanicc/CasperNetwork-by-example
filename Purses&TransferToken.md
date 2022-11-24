@@ -74,6 +74,6 @@ pub extern "C" fn foo(){
 <p style = "float:left; width : 20%;">
 <a href = "https://github.com/k3rn3lpanicc/CasperNetwork-by-example">Previous</a>
 </p>
-<p style = "float:right; width : 5%;">
+<p style = "float:right; width : 20%;">
 <a href = "">Next</a>
 </p>
