@@ -69,3 +69,11 @@ pub extern "C" fn foo(){
     system::transfer_from_purse_to_account(purse_addr, target_account, U512::from_dec_str("1000000").unwrap_or_default(), Some(1234u64));
 }
 ```
+
+<footer>
+<p style = "float:left; width : 20%;">
+<a href = "https://github.com/k3rn3lpanicc/CasperNetwork-by-example">Previous</a>
+</p>
+<p style = "float:right; width : 5%;">
+<a href = "">Next</a>
+</p>
