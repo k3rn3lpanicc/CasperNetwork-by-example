@@ -70,9 +70,8 @@ pub extern "C" fn foo(){
 }
 ```
 
-
-***
 ### __Gateway__
+***
 - [Next Tutorial]()
 - [Previous Tutorial](https://github.com/k3rn3lpanicc/CasperNetwork-by-example)
 ***
