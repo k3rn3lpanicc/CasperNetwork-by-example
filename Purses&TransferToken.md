@@ -70,10 +70,9 @@ pub extern "C" fn foo(){
 }
 ```
 
-<footer>
-<p style = "float:left; width : 20%;">
-<a href = "https://github.com/k3rn3lpanicc/CasperNetwork-by-example">Previous</a>
-</p>
-<p style = "float:right; width : 20%;">
-<a href = "">Next</a>
-</p>
+
+***
+### __Gateway__
+- [Next Tutorial]()
+- [Previous Tutorial](https://github.com/k3rn3lpanicc/CasperNetwork-by-example)
+***
