@@ -1,4 +1,4 @@
-## How to Create a purse
+## How to Create and manage a Purse
 Purses are places where you can transfer your token to, Each account has its own `Main_Purse` which is an address on the network, you can transfer tokens from your purse to another, using session code
 
 Also your smart contracts can create different purses and control them, they can manage tokens and transfer them to another purse (that belongs to either a account or another smart contract).
