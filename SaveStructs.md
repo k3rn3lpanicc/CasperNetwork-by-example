@@ -50,7 +50,7 @@ impl CLTyped for NFTHolder{
 
 ```
 
-By implementing these traits for your struct, you should be able to easily treat them as other premitive types that you could save and retrieve them like so :
+By implementing these traits for your struct, you should be able to easily treat them as other primitive types that you could save and retrieve them like so :
 
 ```Rust
 #[no_mangle]
